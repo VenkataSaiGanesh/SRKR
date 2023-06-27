@@ -1,2 +1,2 @@
 # SRKR
-SRKR_FULLSTACK
+SRKR_fullstsck
